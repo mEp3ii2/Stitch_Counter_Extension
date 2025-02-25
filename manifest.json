@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Crochet Stitch Counter",
+    "version": "1.0",
+    "description": "A handy extension to keep track of your stiches while crocheting",
+    "icons": {
+        "16":"images/crochet_16.png",
+        "32":"images/crochet_32.png",
+        "48":"images/crochet_48.png",
+        "128":"images/crochet_128.png"
+    },
+    "action":{
+        "default_popup": "stitch.html"
+    },
+    "content_scripts": [
+        {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"],
+        "css": ["style.css"]
+        }
+    ]
+}

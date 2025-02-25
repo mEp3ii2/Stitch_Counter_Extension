@@ -1,0 +1,26 @@
+body {
+    font-family: 'Bonbon', cursive;
+    margin: 10px;
+    background: linear-gradient(135deg, rgba(255,154,158,0.85), rgba(250,208,196,0.85));
+    color: #333;
+    border-radius: 12px;
+    padding: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  button {
+    font-family: 'Bonbon', cursive;
+    padding: 8px 12px;
+    font-size: 18px;
+    background: rgba(255, 111, 145, 0.75);
+    border: none;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  button:hover {
+    background: rgba(255, 92, 122, 0.75);
+  }
+  
