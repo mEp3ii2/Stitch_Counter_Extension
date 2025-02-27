@@ -1,6 +1,6 @@
 # Stitch Counter Extension
 
-A simple extension to help users keep track of how many stiches they have done as well as rows completed. Allowing users to focus on their browser content and not having to keep track what stitch they are up too.
+A simple extension for google chrome to help users keep track of how many stiches they have done as well as rows completed. Allowing users to focus on their browser content and not having to keep track what stitch they are up too.
 Will persist in full screen
 
 ### How to use
